@@ -2,7 +2,7 @@
 
 Análisis de datos en Python sobre más de 49.900 partidos internacionales de selecciones masculinas de fútbol (1872–2026), con foco en la selección argentina. Trabajo del **Data Challenge** de la materia Introducción a Análisis de Datos (TUP, UTN Haedo).
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aSGqfYm63uPmXxggVZDJw6TC5EjUrOTl)
+[![Abrir en Colab](https://colab.research.google.com/drive/1aSGqfYm63uPmXxggVZDJw6TC5EjUrOTl#scrollTo=cfLejm6kdbcn)]
 
 ## Preguntas
 
