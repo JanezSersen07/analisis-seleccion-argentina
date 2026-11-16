@@ -2,7 +2,7 @@
 
 Análisis de datos en Python sobre más de 49.900 partidos internacionales de selecciones masculinas de fútbol (1872–2026), con foco en la selección argentina. Trabajo del **Data Challenge** de la materia Introducción a Análisis de Datos (TUP, UTN Haedo).
 
-[![Abrir en Colab](https://colab.research.google.com/drive/1aSGqfYm63uPmXxggVZDJw6TC5EjUrOTl#scrollTo=cfLejm6kdbcn)]
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JanezSersen07/analisis-seleccion-argentina/blob/main/analisis-argentina.ipynb)
 
 ## Preguntas
 
@@ -55,4 +55,3 @@ Python, pandas, NumPy, matplotlib, Google Colab
 ## Fuente de los datos
 
 [International football results from 1872 to 2026](https://github.com/martj42/international_results), un repositorio público de GitHub. El notebook carga los datos directamente desde esa fuente.
-
